@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PomegranateBlue/weride2/static/css/main.6614c427.css",
+    "main.js": "/PomegranateBlue/weride2/static/js/main.fbb8ecb7.js",
+    "static/js/453.3058e2df.chunk.js": "/PomegranateBlue/weride2/static/js/453.3058e2df.chunk.js",
+    "index.html": "/PomegranateBlue/weride2/index.html",
+    "main.6614c427.css.map": "/PomegranateBlue/weride2/static/css/main.6614c427.css.map",
+    "main.fbb8ecb7.js.map": "/PomegranateBlue/weride2/static/js/main.fbb8ecb7.js.map",
+    "453.3058e2df.chunk.js.map": "/PomegranateBlue/weride2/static/js/453.3058e2df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6614c427.css",
+    "static/js/main.fbb8ecb7.js"
+  ]
+}
