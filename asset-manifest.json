@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PomegranateBlue/weride2/static/css/main.6614c427.css",
-    "main.js": "/PomegranateBlue/weride2/static/js/main.fbb8ecb7.js",
-    "static/js/453.3058e2df.chunk.js": "/PomegranateBlue/weride2/static/js/453.3058e2df.chunk.js",
-    "index.html": "/PomegranateBlue/weride2/index.html",
-    "main.6614c427.css.map": "/PomegranateBlue/weride2/static/css/main.6614c427.css.map",
-    "main.fbb8ecb7.js.map": "/PomegranateBlue/weride2/static/js/main.fbb8ecb7.js.map",
-    "453.3058e2df.chunk.js.map": "/PomegranateBlue/weride2/static/js/453.3058e2df.chunk.js.map"
+    "main.css": "/weride2/static/css/main.6614c427.css",
+    "main.js": "/weride2/static/js/main.9c5864fd.js",
+    "static/js/453.3058e2df.chunk.js": "/weride2/static/js/453.3058e2df.chunk.js",
+    "index.html": "/weride2/index.html",
+    "main.6614c427.css.map": "/weride2/static/css/main.6614c427.css.map",
+    "main.9c5864fd.js.map": "/weride2/static/js/main.9c5864fd.js.map",
+    "453.3058e2df.chunk.js.map": "/weride2/static/js/453.3058e2df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6614c427.css",
-    "static/js/main.fbb8ecb7.js"
+    "static/js/main.9c5864fd.js"
   ]
 }
